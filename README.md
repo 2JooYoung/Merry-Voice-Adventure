@@ -59,7 +59,7 @@ MarryVoice Adventurer는 음성 입력 + 음악 분석(BGM 기반) 을 활용해
 - p5.js
 - HTML5
 - CSS3
-- Audio Input: `p5.AudioIn()
+- Audio Input: p5.AudioIn()
 - Audio Analysis: p5.FFT(), p5.PeakDetect()
 
 ---
