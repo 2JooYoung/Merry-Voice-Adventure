@@ -1,9 +1,9 @@
-# MarryVoice Adventurer
+# Merry Voice Adventurer
 
 - p5.js Web Editor  
   https://editor.p5js.org/clzlsfjq86/sketches/RKiI8LY8a
 
-- web
+- Web
   https://2jooyoung.github.io/Merry-Voice-Adventure/MerryVoice_Adventure/
 
 음성 인식 기반으로 캐릭터를 조작하는 크리스마스 테마 러너 게임입니다.  
