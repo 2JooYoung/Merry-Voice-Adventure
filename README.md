@@ -1,5 +1,11 @@
 # MarryVoice Adventurer
 
+- p5.js Web Editor  
+  https://editor.p5js.org/clzlsfjq86/sketches/RKiI8LY8a
+
+- web
+  https://2jooyoung.github.io/Merry-Voice-Adventure/MerryVoice_Adventure/
+
 음성 인식 기반으로 캐릭터를 조작하는 크리스마스 테마 러너 게임입니다.  
 사용자의 목소리 크기(Volume) 에 따라 루돌프가 위,아래로 움직이며  
 장애물(눈사람)을 피해 엔딩까지 도달하면 성공하는 방식입니다.
@@ -22,13 +28,7 @@ MarryVoice Adventurer는 음성 입력 + 음악 분석(BGM 기반) 을 활용해
 
 ---
 
-## Code Link
 
-- p5.js Web Editor  
-  https://editor.p5js.org/clzlsfjq86/sketches/RKiI8LY8a  
-  (로컬 파일: referenced code – :contentReference[oaicite:0]{index=0})
-
----
 
 ## Tech Stack
 
